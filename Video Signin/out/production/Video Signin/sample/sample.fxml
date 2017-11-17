@@ -17,7 +17,7 @@
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="462.0" prefWidth="799.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
       <MediaView fx:id="mediaView" fitHeight="539.0" fitWidth="825.0" layoutX="-7.0" AnchorPane.bottomAnchor="-55.0" AnchorPane.leftAnchor="-7.0" AnchorPane.rightAnchor="-19.0" AnchorPane.topAnchor="0.0" />
-      <Pane layoutX="489.0" layoutY="19.0" prefHeight="425.0" prefWidth="286.0" style="-fx-background-color: #FF4000; -fx-background-radius: 90px;">
+      <Pane layoutX="489.0" layoutY="19.0" prefHeight="425.0" prefWidth="286.0" style="-fx-background-color: #FF400080; -fx-background-radius: 90px;">
          <effect>
             <DropShadow color="#404040" />
          </effect>
